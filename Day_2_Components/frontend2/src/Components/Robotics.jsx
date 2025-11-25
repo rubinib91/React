@@ -5,6 +5,9 @@ const Robotics = () => {
             <p>Chennai is becoming a growing hub for robotics, automation, and deep-tech innovation. Many companies here work on industrial robots, warehouse automation, medical robotics, underwater robots, and AI-driven robotic systems. These companies support sectors like manufacturing, logistics, healthcare, education, and defence.</p>
             
                 <h2 style={{color:"red"}}>List of Robotics Companies in Chennai</h2>
+                <div>
+                    <img src="./robot.jfif" alt="" />
+                </div>
                 <ul>
 
                 <li>Ace Robotics Pvt Ltd - Industrial robots, automation systems</li>
